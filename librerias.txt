@@ -1,0 +1,5 @@
+PyOpenGL 
+pygame
+numpy
+ffpyplayer
+pymediainfo
